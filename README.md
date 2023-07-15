@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun</h1>
-<h3 align="center">A junior student at BITS Pilani. Avid Web Developer and intrigued by the world of CyberSecurity.</h3>
+<h3 align="center">A junior at BITS Pilani. Avid Web Developer and intrigued by the world of CyberSecurity.</h3>
 
 - 🌱 I’m currently learning **CyberSecurity and Hacking**
 
