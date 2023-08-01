@@ -2,7 +2,7 @@
 <h3 align="center">A third year student at BITS Pilani. Avid Web Developer and intrigued by the world of CyberSecurity.</h3>
 
 [![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/varuns121)](https://badges.pufler.dev)
+
 
 # 💫 About Me
 🔭 I’m currently working on my Hacking skills and AI/ML.<br>👯 I’m looking to collaborate on any WebDev or AI/ML projects.<br>🌱 I’m currently learning CyberSecurity and Hacking.<br>💬 Ask me about anything tech and coding related.
