@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun</h1>
-<h3 align="center">A third year student at BITS Pilani. Avid Web Developer and intrigued by the world of CyberSecurity.</h3>
+<h3 align="center">A fourth year student at BITS Pilani. Avid Web Developer and intrigued by the world of CyberSecurity.</h3>
 
 [![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
 
